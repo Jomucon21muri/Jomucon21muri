@@ -39,20 +39,18 @@
 
 ### Desarrollo Profesional:
 - 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación.
-- 🚀 Participando activamente en el desarrollo de modelos avanzados de IA y como profesor en la VIU.
+- 🚀 Participando activamente en el desarrollo de modelos de IA y como profesor en la VIU.
 - 📘 Siempre al tanto de las últimas tendencias en IA y robótica.
 - 📺 Dispuesto a colaborar en conferencias, webinars o charlas educativas.
-- 🤝 Buscando colaborar para mejorar la capacidad de reacción de los robots humanoides.
+- 🤝 Buscando mejorar la capacidad de acción con los robots humanoides.
 - 🗣 Encantado de responder tus preguntas sobre IA, Machine Learning, o cualquier tema académico relacionado.
 - 📩 Cómo contactarme: consulta los enlaces sociales abajo.
 
 ### Viaje:
-🛤 En este viaje, te espera un camino de aprendizaje continuo, colaboración con otros especialistas y contribuciones significativas al crecimiento y desarrollo de la robótica y la IA.
-"Tu misión de expandir la tecnología, este es tu camino verdadero. Que la fuerza de la disciplina y la innovación siempre estén contigo. ¡Adelante, hacia la robótica y la IA!"
+🛤 Que la fuerza de la disciplina y la innovación siempre estén contigo. ¡Adelante, hacia la robótica y la IA!
 
-### Objetivos Futuros:
-🚀 Tu visión es convertirte en un líder destacado en tu campo, aportando desarrollos e investigaciones que marquen una diferencia significativa en la sociedad y la industria.
-¡Esperamos que este perfil capture tu espíritu en el mundo de la robótica e IA!
+### Objetivo:
+🚀 ¡Esperamos que este perfil capture tu espíritu en el mundo de la robótica e IA!
 
 ## 🌍 Donde encontrarme:
 
