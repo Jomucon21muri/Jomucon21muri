@@ -1,7 +1,7 @@
  # 👋 Hola, soy Muri investigador en robótica e IA!
 
 ### ✨ Acerca de mí:
-**Áreas de Especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
+**Áreas de especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
 
 ### Características en desarrollo:
 - 👨‍💻 **Formación continua en innovación:**
@@ -15,9 +15,9 @@
 <details>
 <summary>🛠️ Más habilidades y niveles de Experiencia</summary>
 
-#### Nivel Experto 🚀
+#### Nivel experto 🚀
 - Programación en Python y C++
-- Análisis de Datos y Procesamiento
+- Análisis de datos y procesamiento
 - Comunicación efectiva y presentaciones técnicas
 
 #### Nivel Avanzado 🧠
@@ -44,6 +44,7 @@
 - 📺 Dispuesto a colaborar en conferencias, webinars o charlas educativas.
 - 🤝 Buscando mejorar la capacidad de acción con los robots humanoides.
 - 🗣 Encantado de responder tus preguntas sobre IA, Machine Learning, o cualquier tema académico relacionado.
+- 🌟 Como docente agrego tambien información de los cursos que doy cada año.
 - 📩 Cómo contactarme: consulta los enlaces sociales abajo.
 
 ### Viaje:
