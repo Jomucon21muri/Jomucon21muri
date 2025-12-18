@@ -2,37 +2,10 @@
 
 ### ✨ Acerca de mí:
 **Áreas de especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
-
-### Características en desarrollo:
 - 👨‍💻 **Formación continua en innovación:**
     - En constante aprendizaje a través de cursos especializados, seminarios y talleres para estar al día de las tecnología emergentes 📚
     - Activo en el desarrollo y prueba de proyectos prácticos y experimentaciones a pequeña y gran escala 🔧
-    - Desarrollando habilidades en lenguajes de programación populares y plataformas. 💻
-- 📚 **Red:**
-    - Expandiendo una red de contactos en la tecnológica, participando en eventos y comunidades relacionadas con la robótica y la IA 🌐
-    - Fortaleciendo habilidades para analizar situaciones complejas y diseñar soluciones innovadoras con precisión 🧠
-
-<details>
-<summary>🛠️ Más habilidades y niveles de Experiencia</summary>
-
-#### Nivel experto 🚀
-- Programación en Python y C++
-- Análisis de datos y procesamiento
-- Comunicación efectiva y presentaciones técnicas
-
-#### Nivel Avanzado 🧠
-- Desarrollo de algoritmos de IA
-- Integración de sistemas robóticos
-- Manejo de herramientas de aprendizaje automático (como TensorFlow)
-- Diseño e implementación  y consultoría en IA y Robótica
-- Desarrollo de soluciones de automatización
-
-#### Nivel Intermedio 🌟
-- Gestión y liderazgo de proyectos de IA
-- Investigación y desarrollo en tecnologías emergentes
-- Trabajo colaborativo y coordinación de equipos multidisciplinarios
-
-</details>
+    - Desarrollando habilidades en lenguajes de programación. 💻
 
 ### Misión:
 🌟 Fomentar y fromar en el uso de la robótica e IA.
@@ -46,9 +19,6 @@
 - 🗣 Encantado de responder tus preguntas sobre IA, Machine Learning, o cualquier tema académico relacionado.
 - 🌟 Como docente agrego tambien información de los cursos que doy cada año.
 - 📩 Cómo contactarme: consulta los enlaces sociales abajo.
-
-### Viaje:
-🛤 Que la fuerza de la disciplina y la innovación siempre estén contigo. ¡Adelante, hacia la robótica y la IA!
 
 ### Objetivo:
 🚀 ¡Esperamos que este perfil capture tu espíritu en el mundo de la robótica e IA!
