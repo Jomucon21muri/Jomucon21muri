@@ -1,4 +1,4 @@
- # 👋 Hola, soy Muri investigador en robótica e IA!
+ # 👋 Hola, soy Muri aprendiendo y crenado conocimiento en robótica e IA!
 
 ### ✨ Acerca de mí:
 **Áreas de especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
