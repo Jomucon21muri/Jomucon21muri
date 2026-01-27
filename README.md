@@ -27,5 +27,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/3DUCA_)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/3duca_tech/tagged/)
 
-<img width="1480" height="139" alt="image" src="https://github.com/user-attachments/assets/a42d7e8e-740f-4663-a779-d6dea055c8df" />
+
+<img width="2240" height="94" alt="image" src="https://github.com/user-attachments/assets/4c8aa03d-bd25-4c38-bf10-8d41c8c5a180" />
+
+
  
