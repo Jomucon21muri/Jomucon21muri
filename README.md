@@ -1,4 +1,6 @@
- # 👋 Hola, soy Muri aprendiendo y crenado conocimiento en robótica e IA!
+<img width="1184" height="150" alt="image" src="https://github.com/user-attachments/assets/8052de6e-318f-4493-93dc-2c0dbf13a0b4" />
+
+ # 👋 Hola, soy Muri crenado conocimiento en robótica e IA!
 
 ### ✨ Acerca de mí:
 **Áreas de especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
@@ -12,11 +14,7 @@
 
 ### Desarrollo Profesional:
 - 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación.
-- 🚀 Participando activamente en el desarrollo de modelos de IA y como profesor en la VIU.
 - 📘 Siempre al tanto de las últimas tendencias en IA y robótica.
-- 📺 Dispuesto a colaborar en conferencias, webinars o charlas educativas.
-- 🤝 Buscando mejorar la capacidad de acción con los robots humanoides.
-- 🗣 Encantado de responder tus preguntas sobre IA, Machine Learning, o cualquier tema académico relacionado.
 - 🌟 Como docente agrego tambien información de los cursos que doy cada año.
 - 📩 Cómo contactarme: consulta los enlaces sociales abajo.
 
@@ -29,4 +27,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/3DUCA_)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/3duca_tech/tagged/)
 
-## ✨ May the technology be with You ✨
+<img width="1480" height="139" alt="image" src="https://github.com/user-attachments/assets/a42d7e8e-740f-4663-a779-d6dea055c8df" />
+ 
