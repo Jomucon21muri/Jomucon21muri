@@ -21,6 +21,7 @@
 ### Objetivo:
 🚀 ¡Esperamos que este perfil capture tu espíritu en el mundo de la robótica e IA!
 
+[![CV](https://img.shields.io/badge/Ver%20mi%20CV-Online-blue?style=for-the-badge)](https://jomucon21muri.github.io/CV_jm/) 
 ## 🌍 Donde encontrarme:
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@3DUCATechn)
