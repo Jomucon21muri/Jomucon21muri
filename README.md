@@ -1,26 +1,39 @@
 <img width="1184" height="150" alt="image" src="https://github.com/user-attachments/assets/8052de6e-318f-4493-93dc-2c0dbf13a0b4" />
 
- # 👋 Hola, soy Muri crenado conocimiento en robótica e IA!
+ # 👋 Hola, soy Muri | creando conocimiento en Robótica e IA
 
-### ✨ Acerca de mí:
-**Áreas de especialización:** Elctronica, robótica 🤖, Inteligencia Artificial 🧠
-- 👨‍💻 **Formación continua en innovación:**
-    - En constante aprendizaje a través de cursos especializados, seminarios y talleres para estar al día de las tecnología emergentes 📚
-    - Activo en el desarrollo y prueba de proyectos prácticos y experimentaciones a pequeña y gran escala 🔧
-    - Desarrollando habilidades en lenguajes de programación. 💻
+## ✨ Acerca de mí
+Apasionado por la robótica y la Inteligencia Artificial, desarrollando mi perfil dentro de un Plan de Investigación y Plan de Formación Personal (PIyPFP) enfocado en la integración de IA en robots de servicio.
 
-### Misión:
-🌟 Fomentar y fromar en el uso de la robótica e IA.
+### 🤖 Áreas de interés
+- Electrónica aplicada  
+- Robótica autónoma  
+- Inteligencia Artificial  
+- Interacción humano-robot  
 
-### Desarrollo Profesional:
-- 👨‍🏫 Docente dedicado a compartir conocimientos en IA y robótica con la próxima generación.
-- 📘 Siempre al tanto de las últimas tendencias en IA y robótica.
-- 🌟 Como docente agrego tambien información de los cursos que doy cada año.
-- 📩 Cómo contactarme: consulta los enlaces sociales abajo.
 
-### Objetivo:
-🚀 ¡Esperamos que este perfil capture tu espíritu en el mundo de la robótica e IA!
+## 📚 Formación continua
+Actualmente en aprendizaje activo mediante:
 
+- Cursos especializados, seminarios y talleres sobre tecnologías emergentes 📖  
+- Desarrollo y experimentación de proyectos prácticos en robótica e IA 🔧  
+- Mejora continua en programación y sistemas inteligentes 💻  
+
+Comparto mi proceso de aprendizaje construyendo proyectos reales y documentando avances.
+
+
+## 🚀 Desarrollo profesional
+- 👨‍🏫 Docente compartiendo conocimientos en IA y robótica  
+- 📘 Explorando tendencias actuales en sistemas autónomos y aprendizaje automático  
+- 🧩 Integrando experiencias educativas con proyectos tecnológicos reales  
+
+También comparto información sobre cursos y actividades formativas en los que participo cada año.
+
+## 🎯 Objetivo
+Construir progresivamente competencias en IA aplicada a robots de servicio, contribuyendo al desarrollo de sistemas capaces de operar en entornos humanos reales.
+
+
+Consulta mis redes sociales en los enlaces del perfil
 [![CV](https://img.shields.io/badge/Ver%20mi%20CV-Online-blue?style=for-the-badge)](https://jomucon21muri.github.io/CV_jm/) 
 ## 🌍 Donde encontrarme:
 
