@@ -33,8 +33,9 @@ También comparto información sobre cursos y actividades formativas en los que 
 Construir progresivamente competencias en IA aplicada a robots de servicio, contribuyendo al desarrollo de sistemas capaces de operar en entornos humanos reales.
 
 
-Consulta mis redes sociales en los enlaces del perfil
 [![CV](https://img.shields.io/badge/Ver%20mi%20CV-Online-blue?style=for-the-badge)](https://jomucon21muri.github.io/CV_jm/) 
+
+
 ## 🌍 Donde encontrarme:
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@3DUCATechn)
