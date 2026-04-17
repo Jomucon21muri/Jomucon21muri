@@ -3,35 +3,26 @@
  # 👋 Hola, soy Muri | creando conocimiento en Robótica e IA
 
 ## ✨ Acerca de mí
-Apasionado por la robótica y la Inteligencia Artificial, desarrollando mi perfil dentro de un Plan de Investigación y Plan de Formación Personal (PIyPFP) enfocado en la integración de IA en robots de servicio.
+Apasionado por la robótica y la Inteligencia Artificial, desarrollando mi perfil dentro de un Plan de Investigación y Plan de Formación Personal (PIyPFP) enfocado en la integración de IA y robots de servicio.
 
-### 🤖 Áreas de interés
-- Electrónica aplicada  
-- Robótica autónoma  
-- Inteligencia Artificial  
-- Interacción humano-robot  
+##  Desarrollo profesional
+- Docente compartiendo conocimientos en IA y robótica  
+- Explorando tendencias actuales en sistemas autónomos y aprendizaje automático  
+- Integrando experiencias educativas con proyectos tecnológicos reales  
 
-
-## 📚 Formación continua
+## Formación continua
 Actualmente en aprendizaje activo mediante:
 
-- Cursos especializados, seminarios y talleres sobre tecnologías emergentes 📖  
-- Desarrollo y experimentación de proyectos prácticos en robótica e IA 🔧  
-- Mejora continua en programación y sistemas inteligentes 💻  
+- Cursos especializados, seminarios y talleres sobre tecnologías emergentes   
+- Desarrollo y experimentación de proyectos prácticos en robótica e IA   
+- Mejora continua en programación y sistemas inteligentes 
+
+
+## Objetivo
+Construir progresivamente competencias en IA aplicada y robots de servicio, contribuyendo al desarrollo de sistemas capaces de operar en entornos humanos reales.
 
 Comparto mi proceso de aprendizaje construyendo proyectos reales y documentando avances.
-
-
-## 🚀 Desarrollo profesional
-- 👨‍🏫 Docente compartiendo conocimientos en IA y robótica  
-- 📘 Explorando tendencias actuales en sistemas autónomos y aprendizaje automático  
-- 🧩 Integrando experiencias educativas con proyectos tecnológicos reales  
-
 También comparto información sobre cursos y actividades formativas en los que participo cada año.
-
-## 🎯 Objetivo
-Construir progresivamente competencias en IA aplicada a robots de servicio, contribuyendo al desarrollo de sistemas capaces de operar en entornos humanos reales.
-
 
 [![CV](https://img.shields.io/badge/Ver%20mi%20CV-Online-blue?style=for-the-badge)](https://jomucon21muri.github.io/CV_jm/) 
 
