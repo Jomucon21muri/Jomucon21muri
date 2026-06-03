@@ -1,8 +1,8 @@
 <img width="1184" height="150" alt="image" src="https://github.com/user-attachments/assets/8052de6e-318f-4493-93dc-2c0dbf13a0b4" />
 
- # 👋 Hola, soy Muri | creando conocimiento en Robótica e IA
+ # Hola, soy Muri | creando conocimiento en Robótica e IA
 
-## ✨ Acerca de mí
+## WHOIAM
 Apasionado por la robótica y la Inteligencia Artificial, desarrollando mi perfil dentro de un Plan de Investigación y Plan de Formación Personal (PIyPFP) enfocado en la integración de IA y robots de servicio.
 
 ##  Desarrollo profesional
