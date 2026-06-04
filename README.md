@@ -24,6 +24,9 @@ Construir progresivamente competencias en IA aplicada y robots de servicio, cont
 Comparto mi proceso de aprendizaje construyendo proyectos reales y documentando avances.
 También comparto información sobre cursos y actividades formativas en los que participo cada año.
 
+<img width="1125" height="1114" alt="image" src="https://github.com/user-attachments/assets/a2eea66f-9359-47bf-8f90-f8f5f21194d5" />
+
+
 [![CV](https://img.shields.io/badge/Ver%20mi%20CV-Online-blue?style=for-the-badge)](https://jomucon21muri.github.io/CV_jm/) 
 
 
