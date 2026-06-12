@@ -26,6 +26,8 @@ También comparto información sobre cursos y actividades formativas en los que 
 
 <img width="1125" height="1114" alt="image" src="https://github.com/user-attachments/assets/a2eea66f-9359-47bf-8f90-f8f5f21194d5" />
 
+<img width="1024" height="1013" alt="image" src="https://github.com/user-attachments/assets/fb1a0a8a-ac1a-4143-8239-1049be139b55" />
+
 
 [![CV](https://img.shields.io/badge/Ver%20mi%20CV-Online-blue?style=for-the-badge)](https://jomucon21muri.github.io/CV_jm/) 
 
